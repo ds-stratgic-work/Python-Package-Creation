@@ -10,4 +10,6 @@
 * PyPi account
 * twine upload
 
+  Github: https://github.com/ds-stratgic-work/Python-Package-Creation.git 
+
 
