@@ -10,6 +10,10 @@
 * PyPi account
 * twine upload
 
-  Github: https://github.com/ds-stratgic-work/Python-Package-Creation.git 
+  Ref links:
+   https://betterprogramming.pub/the-complete-guide-to-creating-python-packages-3ecb150a1a43
+   https://kynan.github.io/blog/2020/05/23/how-to-upload-your-package-to-the-python-package-index-pypi-test-server
+   
+  
 
 
